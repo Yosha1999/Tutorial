@@ -1,2 +1,2 @@
-# Tutorial
+# Matplotlib Tutorial
 This folder contains basic tutorial of matplotlib
